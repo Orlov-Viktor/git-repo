@@ -1,2 +1,3 @@
 print ("Hello World!")
 prin ("two times")
+print("Absolutely good")
