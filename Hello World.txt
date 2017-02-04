@@ -1,4 +1,0 @@
-print ("Hello World!");
-prin ("two times");
-print("Absolutely good");
-print("MOAR DRAMA");
