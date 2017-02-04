@@ -1,2 +1,2 @@
-print ("Hello World!")
-prin ("two times")
+print ("Hello World!");
+prin ("two times");
